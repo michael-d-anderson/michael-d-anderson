@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michael-d-anderson
-- 👀 I’m interested in AI Summarization and blockchain data analytics
+- 👀 I’m interested in helping people grow at the intersection of AI and Coaching.
 - 📫 How to reach me https://www.linkedin.com/in/michaeldavidanderson
 
 <!---
